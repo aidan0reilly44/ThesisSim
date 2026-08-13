@@ -1,0 +1,13 @@
+# MATLAB
+*.asv
+*.m~
+*.autosave
+*.mex*
+
+# Simulink
+*.slxc
+slprj/
+sccprj/
+codegen/
+*.slx.original
+*.slx.r20*
